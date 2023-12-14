@@ -14,4 +14,4 @@ La estructura es la siguiente:
 
 La base de datos esta hecha con un simple servidor XAMP
 
-![imagenes Productos](https://github.com/a73heredia/java-Crud/blob/main/listadoProductos.png)
+
