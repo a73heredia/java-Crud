@@ -9,6 +9,8 @@ La estructura es la siguiente:
   *Un app-services que maneja la administracion de la parte de negocio.
   *Un app-domain que tiene las clases con sus respectivos atributos y metodos para la posterior implementacion
   de las operaciones sobre productos y clientes
+  *Un app-web que contiene todas las vistas hechas con archivos JSP. Implementando las clases Servlet para la inteaccion de las vistas
+  con el servidor.
 
 La base de datos esta hecha con un simple servidor XAMP
 
